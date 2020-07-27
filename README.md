@@ -20,6 +20,7 @@ Edge Cases =
 - String empty = "the string is empty you numpty"
 - No Argument supplied = "Please supply an argument"
 
+(""+n).split("")
 
 Input/ Output
 
